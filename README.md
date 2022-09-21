@@ -16,7 +16,7 @@
 **Connect with me :**
 
 <a href="https://www.linkedin.com/in/tenzingsalaka/" target="_blank">
-  <img align="left" alt="Arjun | LinkedIn" width="30px"  src="https://github.com/phurbalama/phurbalama/blob/e32c5b00b6a5baf275e2b65cdfa3f29b3e964a93/linkedin.svg" />
+  <img align="left" alt="Arjun | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/salakatenzing/salakatenzing/main/linkedin.svg" />
 </a><br><br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salakatenzing&layout=compact)](https://github.com/salakatenzing/github-readme-stats)
