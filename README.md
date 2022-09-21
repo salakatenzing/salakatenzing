@@ -19,4 +19,4 @@
   <img align="left" alt="Arjun | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/salakatenzing/salakatenzing/main/linkedin.svg" />
 </a><br><br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salakatenzing&layout=compact)](https://github.com/salakatenzing/github-readme-stats)
+  
