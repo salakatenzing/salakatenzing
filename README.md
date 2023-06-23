@@ -15,15 +15,24 @@
   <img align="left" alt="Arjun | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/salakatenzing/salakatenzing/main/linkedin.svg" />
 </a><br><br>
 
-**Demos:**
-TechCaffe:
+Please checkout my projects if you'd like:
 
+**Tech Cafe**
+- Android app that teaches users how to get started in three tech fields. Sofware, Cyber and UI/UX.
+<a href="https://github.com/salakatenzing/Tech_Cafe/"> https://github.com/salakatenzing/Tech_Cafe</a>
 
+**Employee Manager**
+- Spring Boot, React, PostgreSQL application with simple CRUD operations to add, edit and remove employees.
+- <a href="https://github.com/salakatenzing/Employee_Management_CRUD">https://github.com/salakatenzing/Employee_Management_CRUD</a>
 
-https://user-images.githubusercontent.com/20289725/191400950-65e91dd4-85bd-4e36-bd78-7ec0b0203aa9.mp4
+**Maverick Merchants**
+-Node.js,React, Redux, PostgreSQL application which allows users to interract with a E-Commerce platform for groceries.
+- <a href="https://github.com/salakatenzing/grace-hopper">https://github.com/salakatenzing/grace-hopper</a>
 
+ **RTH**
+ - OpenAI API, Stripe API, Node.js, React, Redux, PostgreSQL Stock trading platform that allows users to practice trading with virtual currency. Open AI helper assistant intergrated to help with tips.
+ - <a href="https://github.com/salakatenzing/Robin-In-the-Hood-Trading-Corp">https://github.com/salakatenzing/Robin-In-the-Hood-Trading-Corp</a>
 
-Sunshine or Rain:
 
 
 
