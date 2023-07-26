@@ -18,7 +18,7 @@
 Please checkout my projects if you'd like:
 
 **Tech Cafe**
-- Android app that teaches users how to get started in three tech fields. Sofware, Cyber and UI/UX.
+- Java/Android app that teaches users how to get started in three tech fields. Sofware, Cyber and UI/UX.
 <a href="https://github.com/salakatenzing/Tech_Cafe/"> https://github.com/salakatenzing/Tech_Cafe</a>
 
 **Employee Manager**
