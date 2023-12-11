@@ -17,9 +17,13 @@
 
 Please checkout my projects if you'd like:
 
+**Store Manager**
+- Comprehensive ASP.NET Core API for a retail management system, integrating PostgreSQL for robust data handling and Entity Framework ORM for efficient data access and manipulation.
+- <a href="https://github.com/salakatenzing/Store-Manager/"> https://github.com/salakatenzing/Store-Manager/</a>
+
 **Tech Cafe**
 - Java/Android app that teaches users how to get started in three tech fields. Sofware, Cyber and UI/UX.
-<a href="https://github.com/salakatenzing/Tech_Cafe/"> https://github.com/salakatenzing/Tech_Cafe</a>
+- <a href="https://github.com/salakatenzing/Tech_Cafe/"> https://github.com/salakatenzing/Tech_Cafe</a>
 
 **Employee Manager**
 - Spring Boot, React, PostgreSQL application with simple CRUD operations to add, edit and remove employees.
